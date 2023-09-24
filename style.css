@@ -1459,6 +1459,10 @@ input[type="search"]::-webkit-search-results-decoration {
   margin-top: 2rem;
 }
 
+.mb-20{
+  margin-bottom: 5rem;
+}
+
 .block{
   display: block;
 }
@@ -1855,6 +1859,10 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .overflow-hidden{
   overflow: hidden;
+}
+
+.overflow-visible{
+  overflow: visible;
 }
 
 .whitespace-nowrap{
@@ -3155,6 +3163,10 @@ input[type="search"]::-webkit-search-results-decoration {
     margin-top: 0px;
   }
 
+  .sm\:mt-10{
+    margin-top: 2.5rem;
+  }
+
   .sm\:inline-flex{
     display: inline-flex;
   }
@@ -3200,6 +3212,11 @@ input[type="search"]::-webkit-search-results-decoration {
     padding-right: 1.5rem;
   }
 
+  .sm\:px-2{
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
   .sm\:text-left{
     text-align: left;
   }
@@ -3236,6 +3253,10 @@ input[type="search"]::-webkit-search-results-decoration {
 
   .md\:mt-0{
     margin-top: 0px;
+  }
+
+  .md\:mt-10{
+    margin-top: 2.5rem;
   }
 
   .md\:block{
@@ -3414,6 +3435,10 @@ input[type="search"]::-webkit-search-results-decoration {
     margin-top: 0px;
   }
 
+  .lg\:mt-10{
+    margin-top: 2.5rem;
+  }
+
   .lg\:w-1\/2{
     width: 50%;
   }
@@ -3447,6 +3472,10 @@ input[type="search"]::-webkit-search-results-decoration {
     margin-top: 0px;
   }
 
+  .xl\:mt-10{
+    margin-top: 2.5rem;
+  }
+
   .xl\:space-x-20 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
     margin-right: calc(5rem * var(--tw-space-x-reverse));
@@ -3465,6 +3494,10 @@ input[type="search"]::-webkit-search-results-decoration {
 @media (min-width: 1536px){
   .\32xl\:mt-0{
     margin-top: 0px;
+  }
+
+  .\32xl\:mt-10{
+    margin-top: 2.5rem;
   }
 
   .\32xl\:overflow-visible{
