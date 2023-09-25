@@ -1375,6 +1375,10 @@ input[type="search"]::-webkit-search-results-decoration {
   margin-bottom: 0.5rem;
 }
 
+.mb-20{
+  margin-bottom: 5rem;
+}
+
 .mb-3{
   margin-bottom: 0.75rem;
 }
@@ -1435,16 +1439,8 @@ input[type="search"]::-webkit-search-results-decoration {
   margin-top: 0.25rem;
 }
 
-.mt-10{
-  margin-top: 2.5rem;
-}
-
 .mt-2{
   margin-top: 0.5rem;
-}
-
-.mt-20{
-  margin-top: 5rem;
 }
 
 .mt-4{
@@ -1457,10 +1453,6 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .mt-8{
   margin-top: 2rem;
-}
-
-.mb-20{
-  margin-bottom: 5rem;
 }
 
 .block{
@@ -1859,10 +1851,6 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .overflow-hidden{
   overflow: hidden;
-}
-
-.overflow-visible{
-  overflow: visible;
 }
 
 .whitespace-nowrap{
@@ -3212,11 +3200,6 @@ input[type="search"]::-webkit-search-results-decoration {
     padding-right: 1.5rem;
   }
 
-  .sm\:px-2{
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-  }
-
   .sm\:text-left{
     text-align: left;
   }
@@ -3249,10 +3232,6 @@ input[type="search"]::-webkit-search-results-decoration {
 
   .md\:col-span-7{
     grid-column: span 7 / span 7;
-  }
-
-  .md\:mt-0{
-    margin-top: 0px;
   }
 
   .md\:mt-10{
@@ -3431,10 +3410,6 @@ input[type="search"]::-webkit-search-results-decoration {
     grid-column: span 4 / span 4;
   }
 
-  .lg\:mt-0{
-    margin-top: 0px;
-  }
-
   .lg\:mt-10{
     margin-top: 2.5rem;
   }
@@ -3468,10 +3443,6 @@ input[type="search"]::-webkit-search-results-decoration {
     margin-right: -1.5rem;
   }
 
-  .xl\:mt-0{
-    margin-top: 0px;
-  }
-
   .xl\:mt-10{
     margin-top: 2.5rem;
   }
@@ -3492,10 +3463,6 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 @media (min-width: 1536px){
-  .\32xl\:mt-0{
-    margin-top: 0px;
-  }
-
   .\32xl\:mt-10{
     margin-top: 2.5rem;
   }
